@@ -1,0 +1,20 @@
+#notes h1 {
+    font-size: 1.5em;
+    font-weight: 900;
+    padding-top: 0px;
+    margin-top: 0px;
+
+
+}
+
+#notes textarea {
+    font-size: 1em;
+    font-family: "Libre Franklin", sans-serif;
+    line-height: 1.75em;
+    background: transparent;
+    color: var(--brown);
+    border: 0px;
+    height: 90%;
+    flex-basis: 100%;
+    width: 100%;
+}

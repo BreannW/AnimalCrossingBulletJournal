@@ -1,0 +1,47 @@
+#mortage h1 {
+    font-size: 1.5em;
+    margin-top: 0px;
+    text-align: right;
+    color: var(--green);
+
+}
+
+#mortage-inner {
+    flex-basis: 60%;
+}
+
+#tomNook {
+    flex-basis: 40%;
+    margin-top: 18%;
+}
+
+#tomNook img {
+    width: 80%;
+}
+#math {
+    flex-basis: 50%;
+    text-align: right;
+    font-size: 1.5em;
+    font-weight: bold;
+
+
+}
+
+.mathInput {
+    font-size: 1.5em;
+    background: transparent;
+    width: 100%;
+    font-family: zilla slab, sans-serif;
+    border: 0px;
+    font-weight: bold;
+    text-align: right;
+    color: var(--green);
+
+}
+
+#math label {
+    font-size: .5em;
+    font-family: "Libre Franklin", sans-serif;
+    font-weight: 400;
+
+}

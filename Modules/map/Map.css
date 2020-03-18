@@ -1,0 +1,41 @@
+#map {
+    flex-basis: 55%;
+    font-weight: 900;
+    font-size: 1rem;
+    align-self: end;
+    /*  margin-top: -10px;
+*/
+}
+
+#map img {
+    flex-basis: 100%;
+    height: auto;
+    margin-right: 5%;
+    align-self: center;
+    width: 100%;
+    margin-top: 6%;
+}
+
+.mapInfo {
+    display: flex;
+    flex-basis: 50%;
+    color: var(--blue)
+}
+
+#islandName {
+    font-size: 1.5em;
+    flex-basis: 50%;
+
+}
+
+#date {
+    font-size: 1.5em;
+    text-align: right;
+    flex-basis: 50%;
+
+}
+@media (max-width: 1280px) {
+    #map {
+        flex-basis: 100%;
+    }
+}

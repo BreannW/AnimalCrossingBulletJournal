@@ -1,0 +1,36 @@
+#museum {
+    border: 3px solid var(--blue);
+    margin-left: 5%;
+    flex-basis: 50%;
+    color: var(--blue)
+}
+
+#museum h1 {
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 0px;
+}
+
+#museum hr {
+    margin: 0px;
+    border-top: 3px solid var(--blue);
+}
+
+#museum ul {
+    font-family: "Libre Franklin", sans-serif;
+    line-height: 1.5em;
+}
+
+#blathers {
+    left: 50%;
+    margin-top: -49%;
+    position: relative;
+    width: 58%;
+    align-self: self-end;
+}
+
+#museumListContainer {
+    /*  display: flex;
+  flex-direction: row;
+  align-items: flex-end;*/
+}
